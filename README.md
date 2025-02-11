@@ -18,7 +18,7 @@ Sumber data terdiri dari:
 - Load: Memasukkan data yang telah dibersihkan ke dalam PostgreSQL sebagai data warehouse.
 ## Implementasi ETL
 Menggunakan Python dengan library seperti polars, SQLAlchemy, dan psycopg2 untuk mengelola proses ETL.
-## 7.Kesimpulan
+## Kesimpulan
 Proses ETL ini berhasil mengotomatisasi pengumpulan dan pembersihan data dari berbagai sumber, memastikan data siap digunakan untuk analisis bisnis yang lebih dalam.
 
 Studi kasus ini bisa dimasukkan ke dalam portofolio sebagai contoh implementasi nyata dari keterampilan ETL untuk Data Engineer.
