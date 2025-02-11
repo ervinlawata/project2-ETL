@@ -1,6 +1,6 @@
 # project2-ETL
 ## Latar Belakang
-Sebuah perusahaan retail ingin menganalisis performa penjualan produk mereka dari berbagai cabang. Data penjualan berasal dari beberapa sumber, termasuk file CSV, database MySQL, dan API eksternal. Perusahaan ingin mengkonsolidasikan data ini ke dalam data warehouse untuk analisis lebih lanjut.
+Sebuah perusahaan retail ingin menganalisis performa penjualan produk mereka dari berbagai cabang. Data penjualan berasal dari beberapa sumber, termasuk file CSV, dan database PostgreSQL. Perusahaan ingin mengkonsolidasikan data ini ke dalam data warehouse untuk analisis lebih lanjut.
 ## Tujuan
 - Menggunakan proses ETL (Extract, Transform, Load) untuk mengumpulkan data dari berbagai sumber.
 - Membersihkan dan mengubah data agar konsisten.
