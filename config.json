@@ -1,9 +1,0 @@
-{
-    "retail_sales": {
-        "host": "localhost",
-        "db": "retail_sales",
-        "user": "postgres",
-        "password": "postgres",
-        "port": "5432"
-    }
-}
