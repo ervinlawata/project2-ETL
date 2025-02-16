@@ -1,8 +1,6 @@
 import polars as pl
-import requests
 import connection
 import os
-import pandas
 
 def extract(dataset: str):
     path = os.getcwd()

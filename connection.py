@@ -3,6 +3,7 @@ import json
 import psycopg2
 import os
 
+
 def config(conn_name):
     path = os.getcwd()
     with open(path+'/config.json') as file:

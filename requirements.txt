@@ -1,0 +1,5 @@
+pandas
+polars
+sqlalchemy
+psycopg2-binary
+requests
